@@ -38,7 +38,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/Yassin994/YESSER-MD.git'; // لینک مخزن گیت‌هاب
+        const repoUrl = 'https://github.com/Aiden149/AIDEN'; // لینک مخزن گیت‌هاب
         const targetFolder = 'plugins'; // پوشه‌ای که باید به‌روز شود
 
         // بررسی وجود پوشه هدف
